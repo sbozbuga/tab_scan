@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NSPC" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <NSPC>
+    <NAMESPACE>/CTDI/</NAMESPACE>
+    <REPLICENSE>34289826181512727252</REPLICENSE>
+   </NSPC>
+   <I18N_LANGS>
+    <LANGU/>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <NSPC_TEXTS>
+    <item/>
+    <item>
+     <SPRAS>D</SPRAS>
+     <DESCRIPTN>CTDI Malsch GmbH Headquarter Germany</DESCRIPTN>
+     <OWNER>CTDI GmbH Malsch</OWNER>
+    </item>
+   </NSPC_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
